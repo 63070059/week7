@@ -1,4 +1,4 @@
 ```
-python myscript.py Alice --age 30
+python3 myscript.py Alice --age 30
 
 ```
